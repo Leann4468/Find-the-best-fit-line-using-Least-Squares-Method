@@ -44,9 +44,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
 
-![image](https://github.com/JoyceBeulah/Find-the-best-fit-line-using-Least-Squares-Method/assets/118343698/ecc21de1-d3d9-4d19-a795-e10dbbba449c)
+![image](https://github.com/Leann4468/Find-the-best-fit-line-using-Least-Squares-Method/assets/121165979/5d32b0c8-de26-4401-ba32-a8ec852805e2)
 
 
 
